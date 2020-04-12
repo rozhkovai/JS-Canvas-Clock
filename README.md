@@ -1,2 +1,2 @@
 # JS-Canvas-Clock
-Clock for a Website.
+Clock for a website.
