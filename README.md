@@ -1,2 +1,2 @@
 # JS-Canvas-Clock
-Volkov-labs
+Clock for a Website.
